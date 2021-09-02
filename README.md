@@ -28,7 +28,7 @@ Checkout [this report]() for detialed explannation of detection, tracking of the
 
 ![testudo](git_images/testimg.png)     ![testudo](git_images/testudo.gif)
 
-![testudo](git_images/testimg2.pmg)     ![eg1](git_images/cube.gif)
+![testudo](git_images/testimg2.png)     ![eg1](git_images/cube.gif)
 
 ## How to Run the Code
 
@@ -42,7 +42,7 @@ Checkout [this report]() for detialed explannation of detection, tracking of the
   
 3) Run the following command for the cube superimposition.
 
-  ```python Two_b.py```
+    ```python Two_b.py```
 
 
 ## References
