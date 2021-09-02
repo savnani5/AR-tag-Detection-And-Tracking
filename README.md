@@ -10,13 +10,6 @@ position (a.k.a. the pose).
 
 Checkout [this report](https://github.com/savnani5/AR-tag-Detection-And-Tracking/blob/main/ENPM673-%20PROJ1.pdf) for detialed explanation of detection, tracking of the tag and superimposing over it.
 
-## Input
-
-[Input Data](https://drive.google.com/drive/folders/1b_cSKQp5dlNqVjAsJskwU_5_8V1B5Uq1?usp=sharing)
-
-## Output
-
-[Output Videos](https://drive.google.com/drive/folders/19yLQtRxngrrmcS1Lgx9lMOd856wHkDdb?usp=sharing)
 
 ### Detection 
 **INPUT DATA**
@@ -109,6 +102,16 @@ the filter.
 10. Next, we draw the edges of the cube to visualize it in 3 dimensions.
 
 ![testudo](git_images/testimg2.png)     ![eg1](git_images/cube.gif)
+
+
+## Input
+
+[Input Data](https://drive.google.com/drive/folders/1b_cSKQp5dlNqVjAsJskwU_5_8V1B5Uq1?usp=sharing)
+
+## Output
+
+[Output Videos](https://drive.google.com/drive/folders/19yLQtRxngrrmcS1Lgx9lMOd856wHkDdb?usp=sharing)
+
 
 ## How to Run the Code
 
