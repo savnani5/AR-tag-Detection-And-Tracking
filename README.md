@@ -34,11 +34,15 @@ Checkout [this report]() for detialed explannation of detection, tracking of the
 
 1) Change the path of the input videos in the video list
 
-```video_list = ['Tag0.mp4', 'Tag1.mp4', 'Tag2.mp4', 'multipleTags.mp4']```
+    ```video_list = ['Tag0.mp4', 'Tag1.mp4', 'Tag2.mp4', 'multipleTags.mp4']```
 
-2) Run the file *Two_a.py* for the image superimpostion.
+2) Run the following command for the image superimpostion.
+  
+    ```python Two_a.py```
+  
+3) Run the following command for the cube superimposition.
 
-3) Run the file *Two_b.py* for the cube superimposition.
+  ```python Two_b.py```
 
 
 ## References
