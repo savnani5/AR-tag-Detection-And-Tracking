@@ -21,7 +21,7 @@ Checkout [this report]() for detialed explanation of detection, tracking of the 
 ### Detection 
 **INPUT DATA**
 
-![input](git_images/img.png)    ![input](git_images/input.gif)
+![input](git_images/img1.png)    ![input](git_images/input1.gif)
 
 1. Initially, the user is prompted to enter the number to play a specific video
 for the code.
