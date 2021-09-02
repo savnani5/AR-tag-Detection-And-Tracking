@@ -117,7 +117,9 @@ the filter.
 
 1) Change the path of the input videos in the video list
 
-    ```video_list = ['Tag0.mp4', 'Tag1.mp4', 'Tag2.mp4', 'multipleTags.mp4']```
+    ```PY
+    video_list = ['Tag0.mp4', 'Tag1.mp4', 'Tag2.mp4', 'multipleTags.mp4']
+    ```
 
 2) Run the following command for the image superimpostion.
   
