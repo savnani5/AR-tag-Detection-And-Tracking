@@ -8,7 +8,7 @@ the tracking stage will involve keeping the tag in “view” throughout the seq
 and performing image processing operations based on the tag’s orientation and
 position (a.k.a. the pose).
 
-Checkout [this report]() for detialed explanation of detection, tracking of the tag and superimposing over it.
+Checkout [this report](https://github.com/savnani5/AR-tag-Detection-And-Tracking/blob/main/ENPM673-%20PROJ1.pdf) for detialed explanation of detection, tracking of the tag and superimposing over it.
 
 ## Input
 
