@@ -16,7 +16,7 @@ Checkout [this report]() for detialed explannation of detection, tracking of the
 
 ## Output
 
-[Output Data](https://drive.google.com/drive/folders/19yLQtRxngrrmcS1Lgx9lMOd856wHkDdb?usp=sharing)
+[Output Videos](https://drive.google.com/drive/folders/19yLQtRxngrrmcS1Lgx9lMOd856wHkDdb?usp=sharing)
 
 ### Detection 
 
