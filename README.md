@@ -19,6 +19,10 @@ Checkout [this report]() for detialed explanation of detection, tracking of the 
 [Output Videos](https://drive.google.com/drive/folders/19yLQtRxngrrmcS1Lgx9lMOd856wHkDdb?usp=sharing)
 
 ### Detection 
+**INPUT DATA**
+
+![input](git_images/img.png)    ![input](git_images/input.gif)
+
 1. Initially, the user is prompted to enter the number to play a specific video
 for the code.
 2. Then, the testudo image and corresponding video is loaded and the testudo
