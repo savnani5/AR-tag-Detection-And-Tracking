@@ -10,8 +10,8 @@ position (a.k.a. the pose).
 
 Checkout [this report](https://github.com/savnani5/AR-tag-Detection-And-Tracking/blob/main/ENPM673-%20PROJ1.pdf) for detialed explanation of detection, tracking of the tag and superimposing over it.
 
-
-### Detection 
+---
+## Detection 
 **INPUT DATA**
 
 ![input](git_images/img1.png)    ![input](git_images/input1.gif)
@@ -103,16 +103,17 @@ the filter.
 
 ![testudo](git_images/testimg2.png)     ![eg1](git_images/cube.gif)
 
-
+---
 ## Input
 
 [Input Data](https://drive.google.com/drive/folders/1b_cSKQp5dlNqVjAsJskwU_5_8V1B5Uq1?usp=sharing)
 
+---
 ## Output
 
 [Output Videos](https://drive.google.com/drive/folders/19yLQtRxngrrmcS1Lgx9lMOd856wHkDdb?usp=sharing)
 
-
+---
 ## How to Run the Code
 
 1) Change the path of the input videos in the video list
@@ -129,7 +130,7 @@ the filter.
 
     ```python Two_b.py```
 
-
+---
 ## References
 1) https://math.stackexchange.com/questions/494238/how-to-compute-homography-matrix-h-from-corresponding-points-2d-2d-planar-homog
 2) https://www.geogebra.org/?lang=en
