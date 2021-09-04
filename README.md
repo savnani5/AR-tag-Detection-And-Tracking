@@ -108,7 +108,7 @@ the filter.
 
 [Input Data](https://drive.google.com/drive/folders/1b_cSKQp5dlNqVjAsJskwU_5_8V1B5Uq1?usp=sharing)
 
----
+
 ## Output
 
 [Output Videos](https://drive.google.com/drive/folders/19yLQtRxngrrmcS1Lgx9lMOd856wHkDdb?usp=sharing)
