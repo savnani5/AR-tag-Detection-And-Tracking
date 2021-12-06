@@ -43,9 +43,11 @@ source points from the shape of the testudo in arbitrary order.
 and shift the destination points in accordance to the new bounding box
 and input them with a new sliced image into the orientation detection
 function.
-11.This function returns the current orientation of the AR tag, its ID, itsthreshold image and the actions required to correct the arbitrary source
+
+11. This function returns the current orientation of the AR tag, its ID, itsthreshold image and the actions required to correct the arbitrary source
 points to align the testudo.
-12.We correct the source points list by left shifting them according to the
+
+12. We correct the source points list by left shifting them according to the
 actions list.
 13.Next, we input original destination points and the corrected source points
 to get the homography matrix (H).
