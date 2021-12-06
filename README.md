@@ -49,8 +49,10 @@ points to align the testudo.
 
 12. We correct the source points list by left shifting them according to the
 actions list.
+
 13.Next, we input original destination points and the corrected source points
 to get the homography matrix (H).
+
 14.Finally, we input this H matrix in the custom warp perspective function
 with testudo and image frame as parameters, and we display the frame.
 
